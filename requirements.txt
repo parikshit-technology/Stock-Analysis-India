@@ -1,1 +1,1 @@
-pynse
+pynse==0.1.4
