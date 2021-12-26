@@ -1,2 +1,2 @@
-pynse==0.1
+pynse
 streamlit
