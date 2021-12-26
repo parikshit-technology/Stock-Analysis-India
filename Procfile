@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Tweets_Analyzer_Parikshit_Technology.py
+web: sh setup.sh && streamlit run Stock_Analysis_Dashboard.py
